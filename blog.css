@@ -1,0 +1,10 @@
+.date{
+    color: deepskyblue;
+}
+.quote {
+    border-left: 5px solid lightgray;
+}
+body{
+    padding: 20px;
+    border: 20px solid lightgray;
+    }
